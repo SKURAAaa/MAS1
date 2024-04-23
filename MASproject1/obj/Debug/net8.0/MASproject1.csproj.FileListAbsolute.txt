@@ -1,0 +1,14 @@
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\bin\Debug\net8.0\MASproject1.exe
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\bin\Debug\net8.0\MASproject1.deps.json
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\bin\Debug\net8.0\MASproject1.runtimeconfig.json
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\bin\Debug\net8.0\MASproject1.dll
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\bin\Debug\net8.0\MASproject1.pdb
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\MASproject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\MASproject1.AssemblyInfoInputs.cache
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\MASproject1.AssemblyInfo.cs
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\MASproject1.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\MASproject1.dll
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\refint\MASproject1.dll
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\MASproject1.pdb
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\MASproject1.genruntimeconfig.cache
+C:\Users\Kacper\RiderProjects\MASproject1\MASproject1\obj\Debug\net8.0\ref\MASproject1.dll
